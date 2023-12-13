@@ -1,7 +1,7 @@
 ﻿# ✨ Adain ✨
 @Author: Zikai Zhou
 
-_Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization(unofficial implementation)_ 🚀
+_Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization(unofficial implementation)_🚀
 
 ![Sketch](./result/sailboat_sketch_style_transfer_demo.jpg)
 ![self-portrait](./result/sailboat_picasso_self_portrait_style_transfer_demo.jpg)    
