@@ -1,2 +1,0 @@
-﻿# Adain-reproduce
-A simple implementation of Adain.
